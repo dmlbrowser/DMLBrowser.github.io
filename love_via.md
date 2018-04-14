@@ -4,7 +4,7 @@
 
 [第二种（全家桶之类的）](https://github.com/dmlgzs/forum/blob/master/支持作者方法2.md)
 
-[某360借条](https://cdn-daikuan.360jie.com.cn/html/partner-share2-yq.html?id=45627)
+[360借条](https://cdn-daikuan.360jie.com.cn/html/partner-share2-yq.html?id=45627)
 
 360借条介绍
 
@@ -16,4 +16,4 @@
 
 （2）金融机构战略合作，联手打造；银监会审核正规借贷产品，值得信赖。
 
-（3）利息高于银行贷款(ಡωಡ) 
+
