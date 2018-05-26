@@ -9,6 +9,9 @@ test
         window.onbeforeunload=function(event){
             return "您确定要关闭本页面吗？(ಡωಡ) #（滑稽）";
         }
+        window.addEventListener('beforeunload', function (e) {
+       return '您确定要关闭本页面吗？(ಡωಡ) #（滑稽）';
+       });
     </script>
     <script>alert("你打开这个页面干啥？想攻击？（ps：攻击死一本户口）");</script>
 
@@ -16,6 +19,11 @@ test
 <script language="javascript" type="text/javascript">
         window.onbeforeunload=function(event){
             return "您确定要关闭本页面吗？(ಡωಡ) #（滑稽）";
-    }</script>
+    }
+    window.addEventListener('beforeunload', function (e) {
+       return '您确定要关闭本页面吗？(ಡωಡ) #（滑稽）';
+});
+
+</script>
 <script>alert("你打开这个页面干啥？想攻击？（ps：攻击死一本户口）");</script>
             
