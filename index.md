@@ -6,6 +6,8 @@
 
 [下载地址](download.md)
 
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0a7fd3d6b143b6d626e48c973166a27add16ddf95bd1827d95bf9b40a72dd657"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Via浏览器电脑版" title="Via浏览器电脑版"></a>
+
 ## 反馈
 
 目前**Via浏览器电脑版**还不够成熟，可能会有隐藏bug，
