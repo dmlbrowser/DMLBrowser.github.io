@@ -73,13 +73,13 @@
 
 [下载地址1](https://dmlgzs.pipipan.com/fs/11269684-305003370)（推荐）
 
-[下载地址2](https://pan.baidu.com/s/1UuoJKlG5bMUnlDyIknqspw)
+[下载地址2](https://pan.baidu.com/s/1MNxFZMmfqCtdfGI5tXAreA)
 
 ## win7以下系统：
 
 [下载地址1](https://dmlgzs.ctfile.com/fs/11269684-305003385)（推荐）
 
-[下载地址2](https://dmlgzs.pipipan.com/fs/11269684-305003385)
+[下载地址2](https://pan.baidu.com/s/1K8jX3JsYZZoeBIBXm5RCUg)
 
 ## 旧版本下载
 
