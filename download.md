@@ -1,11 +1,29 @@
-# 欢迎使用Via浏览器1.6！
+# 欢迎使用Via浏览器1.7！
 
 内核：Chromium 67.0.3396.30/49.0.2623.110
 
 ## 更新内容（相比上一个版本）：
 
-### 日志：（请认真看完，谢谢）
+### V1.7日志：（请认真看完，谢谢）
 
+庆祝：这个小家伙一岁啦！感谢大家一年来的陪伴！(不知不觉就过去了一年)
+
+电脑版已经有4229行代码啦（不包括内核等）
+
+
+本次更新日志：
+
+①增加了加速器功能
+
+②修改了错误报告
+
+③增加部分已知和未知bug（以后慢慢修改#皮）
+
+④电脑版作者更换域名（chrome://version/ 里面）
+
+⑤修复了49版本一个错误
+
+### V1.6日志：
 ①修改旧版本云同步失效的问题（迁了服务器嘛）
 
 ②右键菜单重写
@@ -53,12 +71,27 @@
 
 ## win7及以上系统：
 
-[下载地址1](https://dmlgzs.pipipan.com/fs/11269684-297895017)（推荐）
+[下载地址1](https://dmlgzs.pipipan.com/fs/11269684-305003370)（推荐）
 
-[下载地址2](https://pan.baidu.com/s/1k9_xIKHhkUCfWZmbBzR5PA)
+[下载地址2](https://pan.baidu.com/s/1UuoJKlG5bMUnlDyIknqspw)
 
 ## win7以下系统：
 
-[下载地址1](https://dmlgzs.pipipan.com/fs/11269684-297893997)（推荐）
+[下载地址1](https://dmlgzs.ctfile.com/fs/11269684-305003385)（推荐）
 
-[下载地址2](https://pan.baidu.com/s/1PYtsrNV-fFuPZkHnfKIjig)
+[下载地址2](https://dmlgzs.pipipan.com/fs/11269684-305003385)
+
+## 旧版本下载
+
+#### win7及以上系统：
+
+[1.6](https://dmlgzs.pipipan.com/fs/11269684-297895017)
+
+[1.5](https://dmlgzs.pipipan.com/fs/11269684-238791816)
+
+#### win7以下系统：
+
+[1.6](https://dmlgzs.pipipan.com/fs/11269684-297893997)
+
+[1.5](https://dmlgzs.pipipan.com/fs/11269684-238791948)
+
