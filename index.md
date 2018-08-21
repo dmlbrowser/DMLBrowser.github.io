@@ -4,6 +4,10 @@
 
 作者开学，更新速度可能变慢<!--电脑版将停更一段时间（12月更新）-->
 
+作者开学啦！继续拖更。。#滑稽
+
+另外，以后可能会变成Chromium的直接改版
+
 [下载地址](download.md)
 
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0a7fd3d6b143b6d626e48c973166a27add16ddf95bd1827d95bf9b40a72dd657"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Via浏览器电脑版" title="Via浏览器电脑版"></a>
