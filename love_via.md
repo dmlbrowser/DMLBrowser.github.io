@@ -1,8 +1,12 @@
 # 我们用了有限的业余时间设计了Via浏览器电脑版，虽然它们并不那么美好，但正努力前行
+
 ## 如果你喜欢我们的作品，可以捐赠来支持我们。所有的捐助都将用来：提升我们的环境配置和积极性。
-[第一种](https://github.com/dmlgzs/forum/blob/master/支持作者方法1.md)
+
+[第一种](love1.md)
 
 [第二种（全家桶之类的）](https://github.com/dmlgzs/forum/blob/master/支持作者方法2.md)
+
+[第三种](https://github.com/dmlgzs/forum/blob/master/支持作者方法1.md)
 
 [360借条](https://cdn-daikuan.360jie.com.cn/html/partner-share2-yq.html?id=45627)
 
