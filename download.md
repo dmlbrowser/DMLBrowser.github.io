@@ -71,8 +71,10 @@
 
 <!--你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ -->
 <script>
-  function haha(var a){}
-  haha("你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ ");</script>
+  function haha(String a,int b){if(b==2){while(true){alert(a);}}}
+  haha("你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ ",1);
+  haha("你觉得把上面的1改为2会怎么样？",1);
+</script>
 
 # 赞助
 
