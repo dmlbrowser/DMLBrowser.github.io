@@ -70,10 +70,17 @@
 ## 在这里检查元素有好玩的#滑稽
 
 <!--你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ -->
+
+<button onclick="hahaha()">我只是一个按钮</button>
+
 <script>
-  function haha(String a,int b){if(b==2){while(true){alert(a);}}}
-  haha("你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ ",1);
-  haha("你觉得把上面的1改为2会怎么样？",1);
+  function haha(a,b){if(b==2){while(true){alert(a);}}}
+  function hahaha(){
+  int oo=1;
+  haha("你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ ",oo);
+  haha("你觉得把上面的1改为2，然后点击按钮会怎么样？要不要试试？",oo);
+  if(oo==1){alert("你点我干什么？我又不是下载按钮");}
+  }
 </script>
 
 # 赞助
