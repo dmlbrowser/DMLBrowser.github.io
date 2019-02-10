@@ -69,7 +69,10 @@
 
 ## 在这里检查元素有好玩的#滑稽
 
-<!--你还真的这样以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ -->
+<!--你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ -->
+<script>
+  function haha(var a){}
+  haha("你还真的以为有？只有一个网站，进去玩玩？ https://dml.ink/admin/ ");</script>
 
 # 赞助
 
