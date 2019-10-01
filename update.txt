@@ -1,2 +1,2 @@
-[最新版本]
-版本=2.2
+[NewVersion]
+Version=2.2
