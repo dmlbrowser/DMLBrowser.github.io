@@ -1,0 +1,315 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>在线随机数生成器</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="在线魔兽Dota roll点器，抽奖，在线随机数生成器, excel随机数生成器,伪随机数生成器,随机数生成器下载,,彩票随机数生成器,随机数生成器软件,网页随机数生成器" />
+<meta name="description" content="在线随机数生成器，可以随机生成你设定的随机数，可以是唯一的或者重复的，可以应用于dota2roll点器，魔兽roll点辅助工具，抽奖等应用" />
+<link type="text/css" rel="stylesheet" href="https://www.99cankao.com|/templates/css/mpublic_v2.css" />
+<link type="text/css" rel="stylesheet" href="https://www.99cankao.com|/templates/css/math/v2/base.css" />
+<link type="text/css" rel="stylesheet" href="https://www.99cankao.com|/templates/css/math/v2/number.css" />
+<script language=javascript src="https://www.99cankao.com|/common.js"></script>
+<script type='text/javascript' src="https://www.99cankao.com|/jquery.js"> </script>
+<script type="text/javascript" src="random-number/random.js"></script>
+</head>
+<body>
+
+<div id="header" style="height:75px;width: 990px;margin:0 auto">
+<div id="logo" style="width:272px;float:left">
+<a onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.99cankao.com/');" href="https://www.99cankao.com/" title=""><img src="https://www.99cankao.com/templates/images/logo.png" border="0" alt="九九参考网99cankao.com"></a>
+</div>
+<div style="float:right;margin-top: 30px;">
+<form name="f1" onsubmit="return g(this)" target="_blank">
+<table>
+<tr>
+<td>
+<input type="text" name="word" onfocus="checkHttps" size="25" maxlength="255" value="" class="bword">
+<input type="submit" value="搜索" class="bsearch"><br>
+<input name="tn" type="hidden" value="SE_zzsearchcode_shhzc78w">
+<input name="cl" type="hidden" value="3">
+<input name="ct" type="hidden">
+<input name="si" type="hidden" value="www.99cankao.com">
+<div class="mt10" style="display: none">
+<input name="s" type="radio"> 互联网<input name="s" type="radio" checked> www.99cankao.com
+</div>
+</td>
+</tr>
+</table>
+</form>
+<script>
+		(function(){var b=window.BaiduHttps={_option:{}};var f=function(){if(d()){i()}else{c("http")}};function d(){var k=(navigator&&navigator.userAgent)?navigator.userAgent:"",j=new RegExp(/msie 6/i),l=j.test(k);return !l}function i(){h({url:"https://www.baidu.com/con",tn:"zhanzhang"})}function c(j){b._option.protocol=j;b._option.checked=true}function e(){return(new Date()).getTime().toString(16)}function h(l){var k=l.url?l.url:"https://www.baidu.com/con",j=document.createElement("script");j.onload=function(){};j.onerror=function(){c("http")};j.src=k+"?from="+l.tn;document.body.appendChild(j)}b.callbacks=function(j){if(typeof j==="object"){if(j.s==0){c("https")}else{c("http")}}};var a;b.useHttps=function(){if(this._option.timeout===true){f();this._option.timeout=false;this._option.time_checked=false;a=setTimeout(g,1000*120)};if(!this._option.time_checked){a=setTimeout(g,1000*120)}if(this._option.checked&&this._option.protocol=="https"){return {s:1,ssl_code:"ssl10_" + e()};}else{return {s:0,ssl_code:"ssl9_" + e()};}};function g(){b._option.time_checked=true;b._option.timeout=true}f()})();
+
+	    function checkHttps () {
+	        BaiduHttps.useHttps();
+	    };
+	    function g(formname) {
+	        var data = BaiduHttps.useHttps();
+	        var url = '';
+	        url = data.s == 0 ? "http://www.baidu.com/baidu" : 'https://www.baidu.com/baidu' + '?ssl_s=1&ssl_c' + data.ssl_code;
+	        if (formname.s[1].checked) {
+	            formname.ct.value = "2097152";
+	        }
+	        else {
+	            formname.ct.value = "0";
+	        }
+	        formname.action = url;
+	        return true;
+	    };
+	</script>
+
+</div>
+</div>
+
+<div class="wrapper">
+
+<div class="main">
+
+<div class="menu_xy">
+<div class="menu_xy_inner">
+<ul class="clearfix">
+<li><a class="current" href="https://www.99cankao.com/"><span>首页</span></a></li>
+<li><a href="https://www.99cankao.com|/algebra"><span>代数</span></a></li>
+<li><a href="https://www.99cankao.com|/algebragraph"><span>图像</span></a></li>
+<li><a href="https://www.99cankao.com|/matrix"><span>矩阵</span></a></li>
+<li><a href="https://www.99cankao.com|/numbers"><span>数字</span></a></li>
+<li><a href="https://www.99cankao.com|/planegeometry"><span>平面几何</span></a></li>
+<li><a href="https://www.99cankao.com|/solidgeometry"><span>立体几何</span></a></li>
+<li><a href="https://www.99cankao.com|/trigonometry"><span>三角函数</span></a></li>
+<li><a href="https://www.99cankao.com|/analytical"><span>解析几何</span></a></li>
+<li><a href="https://www.99cankao.com|/date"><span>日期时间</span></a></li>
+<li><a href="https://www.99cankao.com|/colorconverter"><span>颜色</span></a></li>
+<li><a href="https://www.99cankao.com|/digital-computation"><span>进制</span></a></li>
+<li><a href="https://www.99cankao.com|/classicphysic"><span>物理</span></a></li>
+<li><a href="https://www.99cankao.com|/electronic"><span>电子电路</span></a></li>
+<li><a href="https://www.99cankao.com|/htmltool"><span>Html工具</span></a></li>
+<li><a href="https://www.99cankao.com|/health"><span>健康</span></a></li>
+
+</ul>
+</div>
+</div>
+
+<div style="margin-top: 10px">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1066447241658620" data-ad-slot="2893352433" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="cont">
+<div class="col_left">
+<div class="fn_part fn_sfz mod_box_t1">
+<div class="hd">
+<h2>在线随机数生成器</h2>
+</div>
+<div class="bd">
+<div class="mod_box_t3 fn_box">
+<div class="box_con">
+<div class="mathmod_form">
+确定产生随机数的数目，最小值和最大值：<br>
+数目：<span style="margin-left:14px"></span><input type="text" id="randomCount" value="10"><br> 最小值：<input type="text" id="randomMinimum" value="0"> 最大值：<input type="text" id="randomMaximum" value="100"><br>
+选择是否为唯一随机数：<br>
+选择：<span style="margin-left:14px"></span><select id="randomType"><option value="unique">唯一</option><option value="open">随便</option></select><br>
+点击生成产生随机数：<br>
+<center><input type="button" id="randomGenerate" value="生成" class="calc"></center>
+得到你想要的随机数！<br>
+<div id="randomNumbers" style="color: white;width:100%;line-height:36px;font-size: 28px;text-align: left;background-color: #005295;border-radius:3px; padding:5px;">结果显示在这里！</div>
+<script type="text/javascript">
+
+          $(document).ready(
+            function() {
+
+              $('#randomGenerate').click(
+                function () {
+                  var test_1 = /^\d+$/.test($('#randomCount').val());
+                  var test_2 = /^\d+$/.test($('#randomMinimum').val());
+                  var test_3 = /^\d+$/.test($('#randomMaximum').val());
+                  if (
+                    test_1 != true ||
+                    test_2 != true ||
+                    test_3 != true
+                  ) {
+                    $('#randomNumbers').html('You missed something, please check the values abovehttps://www.99cankao.com|.');
+                  } else if (
+                    parseInt($('#randomCount').val()) < 1
+                  ) {
+                    $('#randomNumbers').html('The count value have to be at least 1https://www.99cankao.com|.');
+                  } else if (
+                    parseInt($('#randomMinimum').val()) < 0
+                  ) {
+                    $('#randomNumbers').html('The minimum value have to be at least 0https://www.99cankao.com|.');
+                  } else if (
+                    parseInt($('#randomMaximum').val()) < 1
+                  ) {
+                    $('#randomNumbers').html('The maximum value have to be at least 1https://www.99cankao.com|.');
+                  } else if (
+                     parseInt($('#randomMaximum').val()) <= parseInt($('#randomMinimum').val())
+                  ) {
+                    $('#randomNumbers').html('The maximum value have to be greater then the minimumhttps://www.99cankao.com|.');
+                  } else if (
+                    $('#randomType').val() == 'unique' &&
+                    parseInt($('#randomCount').val()) > ( parseInt($('#randomMaximum').val()) - parseInt($('#randomMinimum').val()) )
+                  ) {
+                    $('#randomNumbers').html('In a unique sequence: count <= ( maximum - minimum )https://www.99cankao.com|.');
+                  } else {
+                    var mTwister = new MersenneTwister();
+                    var randomNumbers = new Array();
+                    for (
+                      var i = 0;
+                      i < parseInt($('#randomCount').val());
+                      i++
+                    ) {
+                      var number = ( Math.round( mTwister.random() * ( parseInt($('#randomMaximum').val()) - parseInt($('#randomMinimum').val()) ) ) + parseInt($('#randomMinimum').val()) );
+                      var found  = false;
+                      for (
+                        var j = 0;
+                        j < randomNumbers.length;
+                        j++
+                      ) {
+                        if (
+                          randomNumbers[j] == number
+                        ) {
+                          found = true;
+                          break;
+                        }
+                      }
+                      if (
+                        found == true &&
+                        $('#randomType').val() == 'unique'
+                      ) {
+                        i--;
+                      } else {
+                        randomNumbers[i] = number;
+                      }
+                    }
+                    $('#randomNumbers').html('');
+                    for (
+                      var i = 0;
+                      i < randomNumbers.length;
+                      i++
+                    ) {
+                      $('#randomNumbers').html($('#randomNumbers').html() + ( i == 0 ? '' : ' ' ) + '<b>' + randomNumbers[i] + '</b>');
+                    }
+                  }
+                }
+              );
+
+            }
+          );
+
+          </script>
+</div>
+</div>
+<i class="flag_tl_t3"></i>
+<i class="flag_tr_t3"></i>
+<i class="flag_bl_t3"></i>
+<i class="flag_br_t3"></i>
+</div>
+<div class="ad">
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tqf" data-cmd="tqf" title="分享到腾讯朋友"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_mshare" data-cmd="mshare" title="分享到一键分享"></a><a href="#" class="bds_t163" data-cmd="t163" title="分享到网易微博"></a><a href="#" class="bds_kaixin001" data-cmd="kaixin001" title="分享到开心网"></a><a href="#" class="bds_bdhome" data-cmd="bdhome" title="分享到百度新首页"></a><a href="#" class="bds_tieba" data-cmd="tieba" title="分享到百度贴吧"></a><a href="#" class="bds_print" data-cmd="print" title="分享到打印"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1066447241658620" data-ad-slot="3247504832"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1066447241658620" data-ad-slot="3247504832"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div> <div class="intro_area">
+<p>在线随机数生成器，可以随机生成你设定的随机数，可以是唯一的或者重复的，可以应用于dota2roll点器，魔兽roll点辅助工具，抽奖或者需要随机数字的应用中。</p>
+<p>产生随机数有多种不同的方法。这些方法被称为随机数发生器。随机数最重要的特性是它在产生是后面的那个数与前面的那个数毫无关系。随机数</p>
+<p>真正的随机数是使用物理现象产生的：比如掷钱币、骰子、转轮、使用电子元件的噪音、核裂变等等。这样的随机数发生器叫做物理性随机数发生器，它们的缺点是技术要求比较高。</p>
+<p>在实际应用中往往使用伪随机数就足够了。这些数列是“似乎”随机的数，实际上它们是通过一个固定的、可以重复的计算方法产生的。它们不真正地随机，因为它们实际上是可以计算出来的，但是它们具有类似于随机数的统计特征。这样的发生器叫做伪随机数发生器。</p>
+</div>
+
+<div class="spreadHotWords">
+<span class="sTit">推荐</span>
+<div class="iframeCon" id="cpro_u1249860">
+<a href="http://www.99cankao.com">九九参考计算器</a><br>
+支持我们使用
+<a href="http://click.union.360buy.com/JdClick/?unionId=12535&t=1&to=http://www.360buy.com" target="_blank"><font color=red>京东360buy</font></a>
+<a href="http://union.dangdang.com/transfer.php?from=P-264515&ad_type=10&sys_id=1&backurl=http://www.dangdang.com/" target="_blank"><font color=green>当当</font></a> 购物支持我们。
+</div>
+</div> 
+</div>
+<i class="flag_tl_t1"></i>
+<i class="flag_tr_t1"></i>
+<i class="flag_bl_t1"></i>
+<i class="flag_br_t1"></i>
+</div>
+</div>
+<div id="col_right" class="col_right">
+
+<div class="side_banner">
+
+<div style="background-color:#eeeeee;" id="cpro_u1239045">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1066447241658620" data-ad-slot="3247504832"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<div class="mod_box_t2 hot_tool_part nobor_bom">
+<div class="hd hd_s1">
+<h3>热门工具</h3>
+<i class="flag_l_t2"></i>
+<i class="flag_r_t2"></i>
+</div>
+<div class="bd bd_s1">
+<ul class="mod_txt">
+<li><a class="current" href="http://www.99cankao.com"><span>首页</span></a></li>
+<li><a href="http://www.99cankao.com/algebra"><span><font color=red>代数计算</font></span></a></li>
+<li><a href="http://www.99cankao.com/algebragraph"><span>图像计算</span></a></li>
+<li><a href="http://www.99cankao.com/matrix"><span>矩阵计算</span></a></li>
+<li><a href="http://www.99cankao.com/numbers"><span>数字计算</span></a></li>
+<li><a href="http://www.99cankao.com/planegeometry"><span><font color=red>平面几何</font></span></a></li>
+<li><a href="http://www.99cankao.com/solidgeometry"><span>立体几何</span></a></li>
+<li><a href="http://www.99cankao.com/trigonometry"><span><font color=red>三角函数</font></span></a></li>
+<li><a href="http://www.99cankao.com/analytical"><span>解析几何</span></a></li>
+<li><a href="http://www.99cankao.com/date"><span>日期时间</span></a></li>
+<li><a href="http://www.99cankao.com/colorconverter"><span>颜色计算</span></a></li>
+<li><a href="http://www.99cankao.com/digital-computation"><span>进制计算</span></a></li>
+<li><a href="http://www.99cankao.com/classicphysic"><span>物理计算</span></a></li>
+<li><a href="http://www.99cankao.com/electronic"><span>电子电路</span></a></li>
+<li><a href="http://www.99cankao.com/htmltool"><span>Html工具</span></a></li>
+<li><a href="http://www.99cankao.com/health"><span>健康计算</span></a></li>
+</ul>
+</div>
+</div>
+
+
+<div class="side_banner">
+
+<div style="background-color:#eeeeee;" id="cpro_u1239045">
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="footer">
+<p>Copyright &copy; 2010-2019 <a href="https://www.99cankao.com/">九九参考计算器</a> 网站合作联系QQ:859520118 <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?cb095cfc72cf799617b332336ec1f073";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</p>
+</div>
+
+</div></body>
+</html>
