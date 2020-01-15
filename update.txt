@@ -1,5 +1,5 @@
 [NewVersion]
 Version=2.2
-NeiRong=这是测试的，请不要单击更新，谢谢。等个几分钟就不会了。\n
+NeiRong=这是测试的，请不要单击更新，谢谢。\n等个几分钟就不会了。\n
 2.1more=https://www.z4a.net/images/2020/01/15/test.png
 2.0more=llq.dml.ink
