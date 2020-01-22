@@ -41,3 +41,19 @@
 ## 致谢
 [CEF library](http://opensource.spotify.com/cefbuilds/index.html)
 
+<script type="text/javascript">
+        var OriginTitile = document.title;
+        var titleTime;
+        document.addEventListener('visibilitychange', function () {
+            if (document.hidden) {
+                document.title = '快回来-- 网站崩溃了!  - 迪莫乐浏览器';
+                clearTimeout(titleTime);
+            }
+            else {
+                document.title = '￥￥￥-- 自动恢复了~ - 迪莫乐浏览器';
+                titleTime = setTimeout(function () {
+                    document.title = OriginTitile;
+                }, 1500);
+            }
+        });
+    </script>
