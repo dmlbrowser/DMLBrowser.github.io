@@ -136,11 +136,11 @@
 
 # 下载
 
-（没钱买下载服务器）
+（感谢B站@鬼未族科技 提供的服务器）
 
 ## win7及以上系统：
 
-[下载地址](http://pan1.dml.ink/file/11269684-401852176)
+[下载地址](https://wordpressresource.oss-cn-hangzhou.aliyuncs.com/dml/%E8%BF%AA%E8%8E%AB%E4%B9%90%E6%B5%8F%E8%A7%88%E5%99%A82.1.7z)
 
 
 ## win7以下系统：（2.1暂停更新）
