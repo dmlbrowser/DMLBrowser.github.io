@@ -142,6 +142,7 @@
 
 [下载地址](https://wordpressresource.oss-cn-hangzhou.aliyuncs.com/dml/%E8%BF%AA%E8%8E%AB%E4%B9%90%E6%B5%8F%E8%A7%88%E5%99%A82.1.7z)
 
+[2.2体验版](https://www.lanzous.com/i9mr76b)
 
 ## win7以下系统：（2.1暂停更新）
 
