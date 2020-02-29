@@ -35,7 +35,7 @@
 				</div>
   		    </div>
   		  </div>
-  		  <div class="mdui-col-sm-4 mdui-col-md-3">
+  		  <div class="mdui-col-sm-6 mdui-col-md-4">
   		    <div class="mdui-card mdui-hoverable">
    		     <div class="mdui-card-header">
     		      <img class="mdui-card-header-avatar" src="./logo/AdGuard.png"/>
@@ -57,7 +57,7 @@
 				</div>
   		    </div>
   		  </div>
-  		  <div class="mdui-col-sm-4 mdui-col-md-3">
+  		  <div class="mdui-col-sm-6 mdui-col-md-4">
   		    <div class="mdui-card mdui-hoverable">
    		     <div class="mdui-card-header">
     		      <img class="mdui-card-header-avatar" src="./logo/Chrome Better History.png"/>
@@ -79,7 +79,7 @@
 				</div>
   		    </div>
   		  </div>
-  		  <div class="mdui-col-sm-4 mdui-col-md-3">
+  		  <div class="mdui-col-sm-6 mdui-col-md-4">
   		    <div class="mdui-card mdui-hoverable">
    		     <div class="mdui-card-header">
     		      <img class="mdui-card-header-avatar" src="./logo/crxMouse Chrome™ 手势.png"/>
@@ -101,7 +101,7 @@
 				</div>
   		    </div>
   		  </div>
-  		  <div class="mdui-col-sm-4 mdui-col-md-3">
+  		  <div class="mdui-col-sm-6 mdui-col-md-4">
   		    <div class="mdui-card mdui-hoverable">
    		     <div class="mdui-card-header">
     		      <img class="mdui-card-header-avatar" src="./logo/Tampermonkey.png"/>
