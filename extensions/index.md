@@ -13,7 +13,7 @@
 	<!-- 第一列 -->
 	<div class="mdui-container-fluid">
   		<div class="mdui-row">
-  		  <div class="mdui-col-sm-4 mdui-col-md-3">
+  		  <div class="mdui-col-sm-6 mdui-col-md-4">
   		    <div class="mdui-card mdui-hoverable" id="cfhdojbkjhnklbpkdaibdccddilifddb">
    		     <div class="mdui-card-header">
     		      <img class="mdui-card-header-avatar" src="./logo/adblock.png"/>
