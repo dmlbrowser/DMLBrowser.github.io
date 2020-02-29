@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Tab 选项卡 - 基础样式</title>
+
   <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/mdui/0.4.3/css/mdui.min.css"/>
   <link rel="stylesheet" href="./style/sty.css"/>
-</head>
-<body style="padding-top: 20px;" >
 
+# 扩展列表
 <div class="mdui-container">
   <div class="mdui-tab mdui-tab-full-width" mdui-tab>
     <a href="#dmlllq-extension1" class="mdui-ripple">实用工具</a>
@@ -143,5 +137,4 @@
 </div>
 
 <script src="https://cdnjs.loli.net/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
-</body>
-</html>
+
