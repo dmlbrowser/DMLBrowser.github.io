@@ -2,6 +2,8 @@
 
 内核：Chromium 68.0.3440.42/67.0.3396.30/49.0.2623.110
 
+[快速跳转到下载](#下载)
+
 ## 更新内容（相比上一个版本）：
 
 ### V2.1日志：
@@ -142,7 +144,7 @@
 
 ## win7及以上系统：
 
-[下载地址](https://wordpressresource.oss-cn-hangzhou.aliyuncs.com/dml/%E8%BF%AA%E8%8E%AB%E4%B9%90%E6%B5%8F%E8%A7%88%E5%99%A82.1.7z)
+[下载地址](https://www.lanzous.com/ia3jepg)
 
 [2.2体验beta2版](https://www.lanzous.com/i9vubub)
 
