@@ -1,10 +1,18 @@
-# 欢迎使用迪莫乐浏览器2.0！
+# 欢迎使用迪莫乐浏览器！
 
 内核：Chromium 68.0.3440.42/67.0.3396.30/49.0.2623.110
 
 [快速跳转到下载](#下载)
 
 ## 更新内容（相比上一个版本）：
+
+### V2.1日志：
+
+①beta1：更换Chromium80内核，更换为原版Chromium ui
+
+②beta2：增加内置应用商店
+
+③beta3：支持登录谷歌
 
 ### V2.1日志：
 
@@ -146,7 +154,7 @@
 
 [下载地址](https://www.lanzous.com/ia3jepg)
 
-[2.2体验beta2版](https://www.lanzous.com/i9vubub)
+[2.2体验beta3版](https://www.lanzous.com/iacczpe)
 
 ## win7以下系统：（2.1暂停更新）
 
