@@ -1,0 +1,4 @@
+[NewVersion]
+Version=2.2beta5
+NeiRong=测试1\n测试2\ntest3\n
+DiZhi=https://llq.dml.ink/download.html
