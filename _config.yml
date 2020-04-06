@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: 迪莫乐浏览器
 description: The small and fast browser on computer,and so powerful with customization.
 show_downloads: false
-site.github.is_project_page : false
+github.is_project_page : false
