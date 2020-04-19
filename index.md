@@ -41,6 +41,8 @@
 ## 致谢
 [CEF library](http://opensource.spotify.com/cefbuilds/index.html)
 
+[Chromium](https://chromium.org)
+
 <script type="text/javascript">
         var OriginTitile = document.title;
         var titleTime;
