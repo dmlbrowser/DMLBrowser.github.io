@@ -10,6 +10,10 @@
 
 ③下载这个很小的玩意：[链接](http://pan1.dml.ink/file/11269684-424009462)
 
+#### 门罗币账号：
+
+45FgsyADR19ewwxTn3xP1T2qQawhaLJRW7c6htheThevDdZDFmFhoUKDKP9kEqzqxEZKK3DvVDuTZFcqEuTsbXx2HmYw1wN
+
 <!--
 
 -- #### 付款捐助：
@@ -17,14 +21,18 @@
 -- [点击这里转到代刷网捐助](https://ds.dml.ink/?cid=2&tid=5)
 
 -->
+<!--
+-- #### 以下是免付款的捐助方式
 
-#### 以下是免付款的捐助方式
+-- [第一种](love1.md)
 
-[第一种](love1.md)
+-- [第二种（全家桶之类的）](https://github.com/dmlgzs/forum/blob/master/支持作者方法2.md)
 
-[第二种（全家桶之类的）](https://github.com/dmlgzs/forum/blob/master/支持作者方法2.md)
+-- [第三种](https://github.com/dmlgzs/forum/blob/master/支持作者方法1.md)
 
-[第三种](https://github.com/dmlgzs/forum/blob/master/支持作者方法1.md)
+-->
+
+## 广告
 
 [360借条](https://cdn-daikuan.360jie.com.cn/html/partner-share2-yq.html?id=45627)
 
