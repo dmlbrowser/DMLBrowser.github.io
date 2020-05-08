@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/mdui/0.4.3/css/mdui.min.css"/>
   <link rel="stylesheet" href="./style/sty.css"/>
 
-# 扩展列表（还没弄完）。浏览器支持在http://crx4.com 直接中下载扩展
+# 扩展列表（暂未完善）。浏览器支持在http://crx4.com 直接中下载扩展
 <div class="mdui-container">
   <div class="mdui-tab mdui-tab-full-width" mdui-tab>
     <a href="#dmlllq-extension1" class="mdui-ripple">实用工具</a>
