@@ -1,6 +1,6 @@
 # 欢迎使用迪莫乐浏览器！
 
-内核：Chromium 80.0.3987.150/68.0.3440.42/67.0.3396.30/49.0.2623.110
+内核：Chromium 83.0.4103.92/68.0.3440.42/49.0.2623.110
 
 [快速跳转到下载](#下载)
 
@@ -184,9 +184,9 @@
 
 ## win7及以上系统：
 
-[下载地址](https://www.lanzous.com/ia3jepg)
+[CR分支](https://dmlgzs.lanzous.com/b0d22amch)
 
-[2.2beta4](https://dmlgzs.lanzous.com/b0d22amch)
+[CEF分支](https://www.lanzous.com/ia3jepg)（此分支暂时不更新，内核过于陈旧，有时间会尝试修改最新内核）
 
 ## win7以下系统：（2.1暂停更新）
 
