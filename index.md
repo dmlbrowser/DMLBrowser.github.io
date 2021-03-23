@@ -6,11 +6,15 @@
 
 <!--作者开学，更新速度可能变慢  电脑版将停更一段时间（12月更新）
 
-作者开学啦！继续拖更。。#滑稽
+~~作者开学啦！继续拖更。。#滑稽~~
+
+大概今年七月会更新，会给大家用e5-2680v4双路256GB内存的机子编译
+
+如果成绩理想，可能会把服务器开个虚拟机搞共享电脑。
 
 另外，以后可能会变成Chromium的直接改版-->
 
-[下载地址](download.md)
+[点我进入下载](download.md)
 
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0a7fd3d6b143b6d626e48c973166a27add16ddf95bd1827d95bf9b40a72dd657"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="迪莫乐浏览器" title="迪莫乐浏览器"></a>
 
@@ -22,7 +26,7 @@
 
 ①[论坛反馈](https://github.com/dmlgzs/forum/issues/4)
 
-②[贴吧反馈](https://tieba.baidu.com/p/5412973492)
+~~②[贴吧反馈](https://tieba.baidu.com/p/5412973492)~~
 
 ③电脑版QQ群：684069867
 
