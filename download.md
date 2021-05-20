@@ -188,9 +188,11 @@ PS:已暂时暂停更新，详情请看群公告
 
 ## win7及以上系统：
 
-[CR分支](https://dmlgzs.lanzous.com/b0d22amch)
+~~ 旧的链接因为蓝奏的原因炸掉了，现已换新。 ~~
 
-[CEF分支](https://www.lanzous.com/ia3jepg)（此分支暂时不更新，内核过于陈旧，有时间会尝试修改最新内核，另外，这个分支是以前VIA电脑版的遗产， **暂时只有本分支支持读取VIA云同步的书签**）
+[CR分支](https://dmlgzs.lanzoui.com/b0d22amch)
+
+[CEF分支](https://www.lanzoui.com/ia3jepg)（此分支暂时不更新，内核过于陈旧，有时间会尝试修改最新内核，另外，这个分支是以前VIA电脑版的遗产， **暂时只有本分支支持读取VIA云同步的书签**）
 
 ## win7以下系统：（2.1暂停更新）
 
